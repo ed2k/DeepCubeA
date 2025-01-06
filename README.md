@@ -6,6 +6,7 @@ This currently contains the code for using DeepCubeA to solve the Rubik's cube, 
 
 You can also adapt this code to use DeepCubeA to solve new problems that you might be working on.
 
+Demo https://deepcube.igb.uci.edu/
 For any issues, please contact Forest Agostinelli (foresta@cse.sc.edu)
 
 # Setup
