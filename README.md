@@ -102,3 +102,5 @@ To cite this project, please use
 }
 ```
 
+# other implementation
+https://github.com/Ktakuya332C/deepcube
